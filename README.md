@@ -124,4 +124,4 @@ than an instant flip, but nothing is actually sent.
 
 ---
 
-Built by Ayush Nautiyal. Content and pricing are fictional.
+Built by Suyash Nautiyal. Content and pricing are fictional.
