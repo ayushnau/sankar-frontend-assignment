@@ -5,6 +5,10 @@ A responsive marketing site for a fictional AI voice-agent platform, built for t
 
 **Live site:** _add the deployed URL here_
 
+> Submitted as a ZIP. If you'd rather not install anything, open **`dist/index.html`**
+> in a browser — the production build is included and uses relative asset paths, so it
+> runs straight from the filesystem. To run the source, see below.
+
 ![Desktop hero](screenshots/desktop-hero.png)
 
 ---
@@ -25,6 +29,9 @@ npm run build    # type-check, then build to dist/
 npm run preview  # serve the production build locally
 npm run lint     # oxlint
 ```
+
+The prebuilt `dist/` folder is included in the ZIP; `dist/index.html` opens directly in a
+browser with no server needed.
 
 ## Tech stack
 
